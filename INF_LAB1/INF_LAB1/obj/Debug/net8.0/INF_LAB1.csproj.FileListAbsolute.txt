@@ -1,0 +1,14 @@
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\bin\Debug\net8.0\INF_LAB1.exe
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\bin\Debug\net8.0\INF_LAB1.deps.json
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\bin\Debug\net8.0\INF_LAB1.runtimeconfig.json
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\bin\Debug\net8.0\INF_LAB1.dll
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\bin\Debug\net8.0\INF_LAB1.pdb
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\INF_LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\INF_LAB1.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\INF_LAB1.AssemblyInfo.cs
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\INF_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\INF_LAB1.dll
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\refint\INF_LAB1.dll
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\INF_LAB1.pdb
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\INF_LAB1.genruntimeconfig.cache
+C:\Users\ПК\source\repos\INF_LAB1\INF_LAB1\obj\Debug\net8.0\ref\INF_LAB1.dll
