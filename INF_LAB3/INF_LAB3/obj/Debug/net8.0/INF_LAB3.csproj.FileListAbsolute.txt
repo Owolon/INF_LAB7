@@ -1,0 +1,14 @@
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\INF_LAB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\INF_LAB3.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\INF_LAB3.AssemblyInfo.cs
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\INF_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\bin\Debug\net8.0\INF_LAB3.exe
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\bin\Debug\net8.0\INF_LAB3.deps.json
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\bin\Debug\net8.0\INF_LAB3.runtimeconfig.json
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\bin\Debug\net8.0\INF_LAB3.dll
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\bin\Debug\net8.0\INF_LAB3.pdb
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\INF_LAB3.dll
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\refint\INF_LAB3.dll
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\INF_LAB3.pdb
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\INF_LAB3.genruntimeconfig.cache
+C:\Users\ПК\source\repos\INF_LAB3\INF_LAB3\obj\Debug\net8.0\ref\INF_LAB3.dll
